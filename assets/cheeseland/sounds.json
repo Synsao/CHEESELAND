@@ -1,0 +1,34 @@
+{
+  "clash_win": {
+    "subtitle": "Clash won",
+    "sounds": [
+      {
+        "name": "cheeseland:clash_win",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+
+  "coin_flip": {
+    "subtitle": "Coin landed on heads",
+    "sounds": [
+      {
+        "name": "cheeseland:coin_flip",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+
+  "coin_fail": {
+    "subtitle": "Coin landed on tails",
+    "sounds": [
+      {
+        "name": "cheeseland:coin_fail",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  }
+}
