@@ -1,0 +1,30 @@
+name: Release the pack
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  pack:
+    name: Create the pack thingamajig
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Packsquash my goat
+        uses: ComunidadAylas/PackSquash-action@v4
+        with:
+          packsquash_version: latest
+          options: |
+            pack_directory = '.'
+
+      - name: Tag and release thingamajig
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{ github.run_number }}
+          files: /tmp/pack.zip
