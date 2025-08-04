@@ -5,6 +5,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   pack:
     name: Create the pack thingamajig
@@ -22,6 +25,7 @@ jobs:
           packsquash_version: latest
           options: |
             pack_directory = '.'
+            output_file_path = '/tmp/pack.zip'
 
       - name: Tag and release thingamajig
         uses: softprops/action-gh-release@v2
