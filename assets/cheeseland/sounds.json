@@ -30,5 +30,16 @@
         "preload": true
       }
     ]
+  },
+
+  "kromer": {
+    "subtitle": "???",
+    "sounds": [
+      {
+        "name": "cheeseland:krome",
+        "stream": true,
+        "preload": true
+      }
+    ]
   }
 }
