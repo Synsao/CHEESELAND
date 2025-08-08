@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=true,attached=false,disarmed=true,east=false,north=false,south=false,west=false": {
+      "model": "cheeseland:block/cheeseGrass"
+    },
+    "powered=true,attached=false,disarmed=true,east=false,north=false,south=false,west=true": {
+      "model": "cheeseland:block/cheeseGrass2"
+    }
+  }
+}
