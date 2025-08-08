@@ -41,5 +41,115 @@
         "preload": true
       }
     ]
+  },
+
+  "ad1": {
+    "subtitle": "Cheeseland Advertisement",
+    "sounds": [
+      {
+        "name": "cheeseland:cheeseLandAmb1",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+
+  "ad2": {
+    "subtitle": "Cheeseland Advertisement",
+    "sounds": [
+      {
+        "name": "cheeseland:cheeseLandAmb2",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+
+  "ad3": {
+    "subtitle": "He laughs",
+    "sounds": [
+      {
+        "name": "cheeseland:cheeseLandAmb3",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+
+  "ad4": {
+    "subtitle": "He pleads",
+    "sounds": [
+      {
+        "name": "cheeseland:cheeseLandAmb4",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+
+  "ad5": {
+    "subtitle": "He laments",
+    "sounds": [
+      {
+        "name": "cheeseland:cheeseLandAmb5",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+
+  "ad6": {
+    "subtitle": "He begs",
+    "sounds": [
+      {
+        "name": "cheeseland:cheeseLandAmb6",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+
+  "ad7": {
+    "subtitle": "Dante shills Cheeseland",
+    "sounds": [
+      {
+        "name": "cheeseland:cheeseLandAmb7",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+
+  "ad8": {
+    "subtitle": "He loves Stair town",
+    "sounds": [
+      {
+        "name": "cheeseland:cheeseLandAmb8",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+
+  "ad9": {
+    "subtitle": "He finally yields his mind to the unending struggle",
+    "sounds": [
+      {
+        "name": "cheeseland:cheeseLandAmb9",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+
+  "adinterrupt": {
+    "subtitle": "Player attempts to escape His grasp",
+    "sounds": [
+      {
+        "name": "cheeseland:cheeseNoSkip",
+        "stream": true,
+        "preload": true
+      }
+    ]
   }
 }
