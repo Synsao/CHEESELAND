@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:item/iron_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "cheeseland:item/evilcheese"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "cheeseland:item/purpleegg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "cheeseland:item/sonicrings"
+    }
+  ]
+}

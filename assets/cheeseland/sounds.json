@@ -151,5 +151,42 @@
         "preload": true
       }
     ]
+  },
+
+  "slosh": {
+    "subtitle": "Sloshmael sloshes",
+    "sounds": [
+      {
+        "name": "cheeseland:slosh1",
+        "stream": true,
+        "preload": true
+      },
+      {
+        "name": "cheeseland:slosh2",
+        "stream": true,
+        "preload": true
+      },
+      {
+        "name": "cheeseland:slosh3",
+        "stream": true,
+        "preload": true
+      },
+      {
+        "name": "cheeseland:slosh4",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+
+  "sloshwin": {
+    "subtitle": "Sloshmael does the impossible",
+    "sounds": [
+      {
+        "name": "cheeseland:sloshwin",
+        "stream": true,
+        "preload": true
+      }
+    ]
   }
 }
