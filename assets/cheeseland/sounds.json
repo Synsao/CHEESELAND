@@ -188,5 +188,16 @@
         "preload": true
       }
     ]
+  },
+
+  "cement": {
+    "subtitle": "Cement truck backing up",
+    "sounds": [
+      {
+        "name": "cheeseland:cement",
+        "stream": true,
+        "preload": true
+      }
+    ]
   }
 }
