@@ -199,5 +199,16 @@
         "preload": true
       }
     ]
+  },
+
+  "djtoenailsmagnumopus": {
+    "subtitle": "The beautiful symphony of DJ Toenail starts playing in your ears, enjoy!",
+    "sounds": [
+      {
+        "name": "cheeseland:magnumopus",
+        "stream": true,
+        "preload": true
+      }
+    ]
   }
 }
