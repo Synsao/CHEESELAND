@@ -1,0 +1,18 @@
+{
+  "providers": [
+    {
+      "type":"bitmap",
+      "file":"cheeseland:font/67kid.png",
+      "ascent": 50,
+      "height": 100,
+      "chars": [ "a" ]
+    },
+    {
+      "type":"bitmap",
+      "file":"cheeseland:font/packgod.png",
+      "ascent": 50,
+      "height": 100,
+      "chars": [ "b" ]
+    }
+  ]
+}
