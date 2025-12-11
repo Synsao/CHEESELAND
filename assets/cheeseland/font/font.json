@@ -13,6 +13,13 @@
       "ascent": 50,
       "height": 100,
       "chars": [ "b" ]
+    },
+    {
+      "type":"bitmap",
+      "file":"cheeseland:font/asya.png",
+      "ascent": 50,
+      "height": 100,
+      "chars": [ "c" ]
     }
   ]
 }
