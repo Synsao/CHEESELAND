@@ -20,6 +20,20 @@
       "ascent": 50,
       "height": 100,
       "chars": [ "c" ]
+    },
+    {
+      "type":"bitmap",
+      "file":"cheeseland:font/horror.png",
+      "ascent": 50,
+      "height": 100,
+      "chars": [ "d" ]
+    },
+    {
+      "type":"bitmap",
+      "file":"cheeseland:font/einstein.png",
+      "ascent": 50,
+      "height": 100,
+      "chars": [ "e" ]
     }
   ]
 }
