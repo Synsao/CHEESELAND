@@ -41,6 +41,13 @@
       "ascent": 50,
       "height": 100,
       "chars": [ "f" ]
+    },
+    {
+      "type":"bitmap",
+      "file":"cheeseland:font/border.png",
+      "ascent": 50,
+      "height": 100,
+      "chars": [ "g" ]
     }
   ]
 }
