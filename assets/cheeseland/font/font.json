@@ -34,6 +34,13 @@
       "ascent": 50,
       "height": 100,
       "chars": [ "e" ]
+    },
+    {
+      "type":"bitmap",
+      "file":"cheeseland:font/mangophonk.png",
+      "ascent": 50,
+      "height": 100,
+      "chars": [ "f" ]
     }
   ]
 }
