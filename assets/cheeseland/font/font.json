@@ -5,56 +5,56 @@
       "file":"cheeseland:font/67kid.png",
       "ascent": 50,
       "height": 100,
-      "chars": [ "a" ]
+      "chars": [ "a" ],
+      "filter": {}
     },
     {
       "type":"bitmap",
       "file":"cheeseland:font/packgod.png",
       "ascent": 50,
       "height": 100,
-      "chars": [ "b" ]
+      "chars": [ "b" ],
+      "filter": {}
     },
     {
       "type":"bitmap",
       "file":"cheeseland:font/asya.png",
       "ascent": 50,
       "height": 100,
-      "chars": [ "c" ]
+      "chars": [ "c" ],
+      "filter": {}
     },
     {
       "type":"bitmap",
       "file":"cheeseland:font/horror.png",
       "ascent": 50,
       "height": 100,
-      "chars": [ "d" ]
+      "chars": [ "d" ],
+      "filter": {}
     },
     {
       "type":"bitmap",
       "file":"cheeseland:font/einstein.png",
       "ascent": 50,
       "height": 100,
-      "chars": [ "e" ]
+      "chars": [ "e" ],
+      "filter": {}
     },
     {
       "type":"bitmap",
       "file":"cheeseland:font/mangophonk.png",
       "ascent": 50,
       "height": 100,
-      "chars": [ "f" ]
+      "chars": [ "f" ],
+      "filter": {}
     },
     {
       "type":"bitmap",
       "file":"cheeseland:font/border.png",
       "ascent": 50,
       "height": 100,
-      "chars": [ "g" ]
-    },
-    {
-      "type":"bitmap",
-      "file":"cheeseland:font/white.png",
-      "ascent": 300,
-      "height": 600,
-      "chars": [ "h" ]
+      "chars": [ "g" ],
+      "filter": {}
     }
   ]
 }
