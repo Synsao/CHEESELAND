@@ -47,7 +47,7 @@
     "subtitle": "Cheeseland Advertisement",
     "sounds": [
       {
-        "name": "cheeseland:cheeseLandAmb1",
+        "name": "cheeseland:cheeselandamb1",
         "stream": true,
         "preload": true
       }
@@ -58,7 +58,7 @@
     "subtitle": "Cheeseland Advertisement",
     "sounds": [
       {
-        "name": "cheeseland:cheeseLandAmb2",
+        "name": "cheeseland:cheeselandamb2",
         "stream": true,
         "preload": true
       }
@@ -69,7 +69,7 @@
     "subtitle": "He laughs",
     "sounds": [
       {
-        "name": "cheeseland:cheeseLandAmb3",
+        "name": "cheeseland:cheeselandamb3",
         "stream": true,
         "preload": true
       }
@@ -80,7 +80,7 @@
     "subtitle": "He pleads",
     "sounds": [
       {
-        "name": "cheeseland:cheeseLandAmb4",
+        "name": "cheeseland:cheeselandamb4",
         "stream": true,
         "preload": true
       }
@@ -91,7 +91,7 @@
     "subtitle": "He laments",
     "sounds": [
       {
-        "name": "cheeseland:cheeseLandAmb5",
+        "name": "cheeseland:cheeselandamb5",
         "stream": true,
         "preload": true
       }
@@ -102,7 +102,7 @@
     "subtitle": "He begs",
     "sounds": [
       {
-        "name": "cheeseland:cheeseLandAmb6",
+        "name": "cheeseland:cheeselandamb6",
         "stream": true,
         "preload": true
       }
@@ -113,7 +113,7 @@
     "subtitle": "Dante shills Cheeseland",
     "sounds": [
       {
-        "name": "cheeseland:cheeseLandAmb7",
+        "name": "cheeseland:cheeselandamb7",
         "stream": true,
         "preload": true
       }
@@ -124,7 +124,7 @@
     "subtitle": "He loves Stair town",
     "sounds": [
       {
-        "name": "cheeseland:cheeseLandAmb8",
+        "name": "cheeseland:cheeselandamb8",
         "stream": true,
         "preload": true
       }
@@ -135,7 +135,7 @@
     "subtitle": "He finally yields his mind to the unending struggle",
     "sounds": [
       {
-        "name": "cheeseland:cheeseLandAmb9",
+        "name": "cheeseland:cheeselandamb9",
         "stream": true,
         "preload": true
       }
@@ -146,7 +146,7 @@
     "subtitle": "Player attempts to escape His grasp",
     "sounds": [
       {
-        "name": "cheeseland:cheeseNoSkip",
+        "name": "cheeseland:cheesenoskip",
         "stream": true,
         "preload": true
       }
@@ -217,6 +217,39 @@
     "sounds": [
       {
         "name": "cheeseland:phonk",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+
+  "commercegreeting": {
+    "subtitle": "Welcome, to the chamber of commerce.",
+    "sounds": [
+      {
+        "name": "cheeseland:commercegreeting",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+  
+  "gunshot": {
+    "subtitle": "*GUNSHOT*",
+    "sounds": [
+      {
+        "name": "cheeseland:gunshot",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+  
+  "commerceamb": {
+    "subtitle": "commerce ambience",
+    "sounds": [
+      {
+        "name": "cheeseland:commerceamb",
         "stream": true,
         "preload": true
       }
