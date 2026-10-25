@@ -55,6 +55,14 @@
       "height": 100,
       "chars": [ "g" ],
       "filter": {}
+    },
+       {
+      "type":"bitmap",
+      "file":"cheeseland:font/tuff.png",
+      "ascent": 50,
+      "height": 100,
+      "chars": [ "h" ],
+      "filter": {}
     }
   ]
 }
