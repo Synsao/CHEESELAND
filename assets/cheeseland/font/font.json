@@ -63,6 +63,15 @@
       "height": 100,
       "chars": [ "h" ],
       "filter": {}
+    },
+    
+       {
+      "type":"bitmap",
+      "file":"cheeseland:font/ruga.png",
+      "ascent": 50,
+      "height": 100,
+      "chars": [ "i" ],
+      "filter": {}
     }
   ]
 }
