@@ -254,5 +254,16 @@
         "preload": true
       }
     ]
+  },
+  
+  "laugh": {
+    "subtitle": "Sneering, elation, laughter",
+    "sounds": [
+      {
+        "name": "cheeseland:laugh",
+        "stream": true,
+        "preload": true
+      }
+    ]
   }
 }
